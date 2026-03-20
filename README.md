@@ -1,54 +1,57 @@
-### Hi there, I'm Siyamthanda Dlakavu 👋
+#  Hi there, I'm Siyamthanda Dlakavu
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/deploy-status)](https://siyamthanda-dlakavu.netlify.app/) <!-- Optional: Add your Netlify badge here -->
+**`Full Stack Developer | AI Enthusiast | Lifelong Learner`**
 
-I'm a passionate **Front-End Developer** with a keen eye for design and a drive to build seamless, responsive web experiences. My focus is on writing clean code and transforming creative ideas into functional, user-friendly applications.
+I'm a passionate Full Stack Developer who bridges infrastructure thinking with modern development. My background in IT support and Azure environments means I consider deployment, scalability, and security from day one. I thrive in collaborative teams, approaching every problem with patience, curiosity, and a drive to build clean, user-centric solutions.
 
-🖥️ **Check out my live portfolio:** [siyamthanda-dlakavu.netlify.app](https://siyamthanda-dlakavu.netlify.app/)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-Here are some of the technologies I work with:
-
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Angular
-- **Styling:** CSS, Tailwind CSS, Bootstrap
-- **Tools & Platforms:** Git, GitHub, VS Code, Netlify, Figma, WordPress
-- **Currently Exploring:** TypeScript, Next.js, React
+🖥️ **Explore my work:** [siyamthanda-dlakavu.netlify.app](https://siyamthanda-dlakavu.netlify.app)
 
 ---
 
-### ✨ Featured Project: My Portfolio
+### 🧰 Tech Stack & Tools
 
-My portfolio is a reflection of my skills and a showcase of the projects I'm most proud of. It's designed to be modern, responsive, and give you a glimpse into my development journey.
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | Angular, React, TypeScript, JavaScript, HTML5, CSS3, RxJS, Zustand |
+| **Styling** | Tailwind CSS, Bootstrap, SCSS |
+| **Backend** | C#, .NET, ASP.NET Core, Node.js, Python, Flask, REST APIs, GraphQL |
+| **Database** | SQL Server, MySQL, PostgreSQL, MongoDB |
+| **AI/ML** | NLP, Sentiment Analysis (VADER/NLTK), ML Fairness (AIF360), OpenAI API, Prompt Engineering |
+| **Cloud & DevOps** | Microsoft Azure, Netlify, Vercel, Render, GitHub Actions, Git |
+| **Tools** | VS Code, Figma, Swagger, Postman, Jest |
 
-- **Repo:** [github.com/siseko-D/Siyamthanda-Portfolio](https://github.com/siseko-D/Siyamthanda-Portfolio)
-- **Live Demo:** [siyamthanda-dlakavu.netlify.app](https://siyamthanda-dlakavu.netlify.app/)
+---
 
-**Key Highlights:**
-- ✅ Fully responsive design that looks great on all devices.
-- ✅ Clean and modern user interface.
-- ✅ Optimized for performance and accessibility.
-- ✅ Built with modern HTML5, CSS3, and JavaScript.
+### 📜 Certifications & Continuous Learning
+
+- **Introduction to Generative AI:** [Introduction to Generative AI](https://www.coursera.org/account/accomplishments/verify/7U5GVSCJJVS0)
+- **Introduction to Artificial Intelligence:** [Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/verify/YTFLXM63L34N)
+- **Getting Started with Git and GitHub:** [Getting Started with Git and GitHub](https://www.coursera.org/account/accomplishments/records/42S0E4E7KIOM)
+- **Introduction to HTML, CSS, & JavaScript:** [Introduction to HTML, CSS, & JavaScript](https://www.coursera.org/account/accomplishments/records/WY3KKMLMZ6EK)
+- **Developing Back-End Apps with Node.js and Express:** [Developing Back-End Apps with Node.js and Express](https://www.coursera.org/account/accomplishments/records/WRG9TEDS4935)
+
+*"I regularly take online courses to stay updated with emerging tech – AI, cloud computing, modern frameworks."*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siseko-D&show_icons=true&theme=radical" alt="Siyamthanda's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siseko-D&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siseko-D&layout=compact&theme=radical" alt="Top Languages" height="180px" />
 </div>
 
 ---
 
-### 📫 Let's Connect
+### 🌟 Let's Connect
 
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!
+I'm open to new opportunities, collaborations, or tech conversations. Reach out!
 
 - **Portfolio:** [siyamthanda-dlakavu.netlify.app](https://siyamthanda-dlakavu.netlify.app/)
 - **GitHub:** [github.com/siseko-D](https://github.com/siseko-D)
-- **LinkedIn:** [Your LinkedIn Profile URL] <!-- Add your LinkedIn profile URL here -->
-- **Email:** [Your Email Address] <!-- Add your email address here -->
+- **LinkedIn:** [linkedin.com/in/siyamthandad](https://linkedin.com/in/siyamthandad)
+- **Email:** Dlakavusiseko@gmail.com
+
+---
+
+⭐️ *Feel free to star my repositories and connect – let's build something amazing together!*
