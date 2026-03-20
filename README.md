@@ -1,6 +1,6 @@
-#  Hi there, I'm Siyamthanda Dlakavu
+# Siyamthanda Dlakavu
 
-**`Full Stack Developer | AI Enthusiast | Lifelong Learner`**
+**`Full Stack Developer & Project Coordinator | AI Integration | Angular | C# + .NET`**
 
 I'm a passionate Full Stack Developer who bridges infrastructure thinking with modern development. My background in IT support and Azure environments means I consider deployment, scalability, and security from day one. I thrive in collaborative teams, approaching every problem with patience, curiosity, and a drive to build clean, user-centric solutions.
 
@@ -12,14 +12,14 @@ I'm a passionate Full Stack Developer who bridges infrastructure thinking with m
 
 | Category | Technologies |
 |----------|--------------|
-| **Frontend** | Angular, React, TypeScript, JavaScript, HTML5, CSS3, RxJS, Zustand |
-| **Styling** | Tailwind CSS, Bootstrap, SCSS |
+| **Frontend** | Angular, JavaScript, HTML5, CSS3 |
+| **Styling** | Tailwind CSS, Bootstrap, CSS |
 | **Backend** | C#, .NET, ASP.NET Core, Node.js, Python, Flask, REST APIs, GraphQL |
 | **Database** | SQL Server, MySQL, PostgreSQL, MongoDB |
 | **AI/ML** | NLP, Sentiment Analysis (VADER/NLTK), ML Fairness (AIF360), OpenAI API, Prompt Engineering |
 | **Cloud & DevOps** | Microsoft Azure, Netlify, Vercel, Render, GitHub Actions, Git |
-| **Tools** | VS Code, Figma, Swagger, Postman, Jest |
-
+| **Tools** | VS Code, Figma, Swagger |
+| **Continous Learning** | React, TypeScript, RxJS, Postman, Jest |
 ---
 
 ### 📜 Certifications & Continuous Learning
